@@ -6,7 +6,7 @@
 
 <h1> Somos a TEDxEPFundao </h1>
 
-<p> Conectando Ideias, Transformando o Futuro: TEDxEPFundão</p>
+<p> Seja bem-vindo ao TEDxEPFundão - Um evento dedicado à exploração de ideias transformadoras nas áreas de Robótica, Programação, Educação e Inteligência Artificial. Junte-se a nós em uma jornada de descoberta e inspiração, enquanto nossos palestrantes renomados compartilham suas perspectivas inovadoras e experiências únicas. Vamos juntos explorar o futuro emocionante que essas áreas promissoras têm a oferecer. Inscreva-se agora para garantir o seu lugar neste evento imperdível! </p>
 
 <br>
 
