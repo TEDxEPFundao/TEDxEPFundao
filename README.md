@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79E4E&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=500&lines=Ol%C3%A1+nos+somos+a+TEDxEPFundao;Hello%2C+we+are+TEDxEPFundao;Ol%C3%A1+nos+somos+a+TEDxEPFundao" alt="Typing SVG" /> </h1>
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0000&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=500&lines=Ol%C3%A1+nos+somos+a+TEDxEPFundao;Hello%2C+we+are+TEDxEPFundao;Ol%C3%A1+nos+somos+a+TEDxEPFundao" alt="Typing SVG" /> </h1>
 
 </div>
 
@@ -11,8 +11,8 @@
 <br>
 
 <div align="center">
-<img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=TEDxEPFundao&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=F79E4E&icon_color=F79E4E&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEDxEPFundao&layout=compact&langs_count=7&hide_border=true&title_color=F79E4E&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
+<img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=TEDxEPFundao&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEDxEPFundao&layout=compact&langs_count=7&hide_border=true&title_color=ff0000&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
 </div>
 
 <br>
